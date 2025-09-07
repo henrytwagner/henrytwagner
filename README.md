@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Henry Wagner
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrytwagner)
+[![Resume](https://img.shields.io/badge/Resume-PDF-EF4444?logo=adobeacrobat&logoColor=white)](./assets/Henry_Wagner_Resume.pdf)
+<!-- [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://your-website-url.com) -->
+
 🎓 **Computer Science Student @ University of Michigan**  
 
 💡 Pursuing a **Master’s in Computer Science & Engineering** 
@@ -190,7 +194,10 @@ Exploratory tools, languages, and frameworks I’ve experimented with.
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrytwagner)  
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](#)  Replace with your personal site link if you make one -->
+[![Resume](https://img.shields.io/badge/Resume-PDF-EF4444?logo=adobeacrobat&logoColor=white)](./assets/Henry_Wagner_Resume.pdf)  
+
+<!-- Uncomment once live -->
+<!-- [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://your-website-url.com) -->
 
 <!-- Optional: Add a personal logo or fun graphic -->
 <!-- Example: ![Footer Graphic](./assets/footer.png) -->
