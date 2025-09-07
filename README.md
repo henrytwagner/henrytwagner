@@ -60,9 +60,13 @@ Designed and implemented a scalable platform for managing professional contacts 
 - Applied **responsive UI/UX design principles** with Tailwind and theming, balancing usability with scalability.  
 - Integrated **API documentation and CI/CD planning**, aligning with modern enterprise development practices.  
 
-### 📸 Insta485 Series (EECS 485 Coursework)  
+[![Frontend](https://img.shields.io/badge/Census-Frontend-blue?logo=react)](https://github.com/henrywagner/census-frontend)
+[![Backend](https://img.shields.io/badge/Census-Backend-green?logo=spring)](https://github.com/henrywagner/census-backend)
+
+
+### 📸 InstaClone
 *React · Flask · SQLite*  
-Developed a series of production-quality web applications as part of a systems-focused course.  
+Developed a series of production-quality Instagram clone web applications as part of a systems-focused learning initiative.
 - Gained practical expertise in **REST API design, pagination, and client-side rendering**.  
 - Strengthened ability to integrate **Python backends with modern React frontends** under test-driven workflows.  
 - Emphasized **performance trade-offs** and **data consistency** in distributed web systems.  
@@ -189,15 +193,3 @@ Exploratory tools, languages, and frameworks I’ve experimented with.
 - ✈️ Traveler (studied abroad in Prague, exploring Europe & the Midwest road-trip style)  
 - ⚖️ Balancing technical depth with **creativity, design, and exploration**
 
----
-
-## 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrytwagner)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-EF4444?logo=adobeacrobat&logoColor=white)](./assets/Henry_Wagner_Resume.pdf)  
-
-<!-- Uncomment once live -->
-<!-- [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://your-website-url.com) -->
-
-<!-- Optional: Add a personal logo or fun graphic -->
-<!-- Example: ![Footer Graphic](./assets/footer.png) -->
