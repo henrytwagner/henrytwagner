@@ -1,14 +1,11 @@
 <div align="left">
-  <table>
-    <tr>
-      <td style="border: none; vertical-align: middle;">
-        <img src="YOUR_IMAGE_URL" alt="Henry Wagner" width="120" style="border-radius: 50%;"/>
-      </td>
-      <td style="border: none; vertical-align: middle; padding-left: 15px;">
-        <h1>👋 Hi, I’m Henry Wagner</h1>
-      </td>
-    </tr>
-  </table>
+
+  <img src="./assets/Headshot.png" alt="Henry Wagner" width="160" height="160" style="border-radius: 50%; object-fit: cover; display: inline-block; vertical-align: middle;"/>
+
+  <h1 style="display: inline-block; vertical-align: middle; margin-left: 20px;">
+    👋 Hi, I’m Henry Wagner
+  </h1>
+
 </div>
 
 🎓 **Computer Science Student @ University of Michigan**  
