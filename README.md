@@ -1,12 +1,4 @@
-<div align="left">
-
-  <img src="./assets/Headshot.png" alt="Henry Wagner" width="160" height="160" style="border-radius: 50%; object-fit: cover; display: inline-block; vertical-align: middle;"/>
-
-  <h1 style="display: inline-block; vertical-align: middle; margin-left: 20px;">
-    👋 Hi, I’m Henry Wagner
-  </h1>
-
-</div>
+# 👋 Hi, I’m Henry Wagner
 
 🎓 **Computer Science Student @ University of Michigan**  
 
