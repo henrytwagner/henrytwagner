@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Henry Wagner
 
-[![Website](https://img.shields.io/badge/Website-000000)](https://henrytwagner.com)
+[![Website](https://img.shields.io/badge/Website-9525eb)](https://henrytwagner.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrytwagner)
 [![Resume](https://img.shields.io/badge/Resume-PDF-EF4444?logo=adobeacrobat&logoColor=white)](./assets/Henry-Wagner-Resume.pdf)
 <!-- [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://your-website-url.com) -->
